@@ -1,0 +1,402 @@
+{
+  "0": {
+    "channel_id": "1161764746819805215",
+    "name": "\ud83c\udfdb\u30fbroot\u30fb0",
+    "category_id": "1161764488186441768"
+  },
+  "1": {
+    "channel_id": "1161764867166961704",
+    "name": "\ud835\udefc\u30fbapex\u30fb1",
+    "category_id": "1161764488186441768"
+  },
+  "2": {
+    "channel_id": "1220504695404236800",
+    "name": "\u03b2\u30fbomron\u30fb2",
+    "category_id": "1161764488186441768"
+  },
+  "3": {
+    "channel_id": "1222226314824777853",
+    "name": "\u03b3\u30fb\u03c4emplar\u30fb3",
+    "category_id": "1161764488186441768"
+  },
+  "4": {
+    "channel_id": "1161765008347254915",
+    "name": "\u2206\u30fb\u03c4argon\u30fb4",
+    "category_id": "1161764488186441768"
+  },
+  "5": {
+    "channel_id": "1214225551364202496",
+    "name": "\u03b5\u30fbkai\u03c4o\u30fb5",
+    "category_id": "1161764488186441768"
+  },
+  "6": {
+    "channel_id": "1209554949449457705",
+    "name": "\u03b6\u30fbinfini\u03c4e\u30fb6",
+    "category_id": "1161764488186441768"
+  },
+  "7": {
+    "channel_id": "1215311984799653918",
+    "name": "\u03b7\u30fbsubvor\u03c4ex\u30fb7",
+    "category_id": "1161764488186441768"
+  },
+  "8": {
+    "channel_id": "1162384774170677318",
+    "name": "\u03b8\u30fbp\u03c4n\u30fb8",
+    "category_id": "1161764488186441768"
+  },
+  "9": {
+    "channel_id": "1162768567821930597",
+    "name": "\u03b9\u30fbpre\u03c4rain\u30fb9",
+    "category_id": "1161764488186441768"
+  },
+  "10": {
+    "channel_id": "1217952256306057298",
+    "name": "\u03ba\u30fbs\u03c4urdy\u30fb10",
+    "category_id": "1161764488186441768"
+  },
+  "11": {
+    "channel_id": "1232378968187867147",
+    "name": "\u03bb\u30fbdippy\u30fb11",
+    "category_id": "1161764488186441768"
+  },
+  "12": {
+    "channel_id": "1201941624243109888",
+    "name": "\u00b5\u30fbhorde\u30fb12",
+    "category_id": "1161764488186441768"
+  },
+  "13": {
+    "channel_id": "1185617142914236518",
+    "name": "\u03bd\u30fbda\u03c4averse\u30fb13",
+    "category_id": "1161764488186441768"
+  },
+  "14": {
+    "channel_id": "1310625466411122789",
+    "name": "\u03be\u30fbvector-store\u30fb14",
+    "category_id": "1161764488186441768"
+  },
+  "15": {
+    "channel_id": "1272557411948957697",
+    "name": "\u03bf\u30fbdeval\u30fb15",
+    "category_id": "1161764488186441768"
+  },
+  "16": {
+    "channel_id": "1189234502669697064",
+    "name": "\u03c0\u30fbbi\u03c4ads\u30fb16",
+    "category_id": "1161764488186441768"
+  },
+  "18": {
+    "channel_id": "1335971614516576296",
+    "name": "\u03c3\u30fbzeus\u30fb18",
+    "category_id": "1161764488186441768"
+  },
+  "19": {
+    "channel_id": "1186691482749505627",
+    "name": "\u03c4\u30fbinference\u30fb19",
+    "category_id": "1161764488186441768"
+  },
+  "20": {
+    "channel_id": "1194736998250975332",
+    "name": "\u03c5\u30fbbi\u03c4agen\u03c4\u30fb20",
+    "category_id": "1161764488186441768"
+  },
+  "21": {
+    "channel_id": "1240801129177157692",
+    "name": "\u03c6\u30fbany-any\u30fb21",
+    "category_id": "1161764488186441768"
+  },
+  "22": {
+    "channel_id": "1189589759065067580",
+    "name": "\u03c7\u30fbdesearch\u30fb22",
+    "category_id": "1161764488186441768"
+  },
+  "23": {
+    "channel_id": "1191833510021955695",
+    "name": "\u03c8\u30fbsocial\u30fb23",
+    "category_id": "1161764488186441768"
+  },
+  "24": {
+    "channel_id": "1214246819886931988",
+    "name": "\u03c9\u30fbomega\u30fb24",
+    "category_id": "1161764488186441768"
+  },
+  "25": {
+    "channel_id": "1234881153832321024",
+    "name": "\u05d0\u30fbpro\u03c4ein\u30fb25",
+    "category_id": "1161764488186441768"
+  },
+  "26": {
+    "channel_id": "1321148494253264998",
+    "name": "\u05d1\u30fbstorb\u30fb26",
+    "category_id": "1161764488186441768"
+  },
+  "27": {
+    "channel_id": "1174835090539433994",
+    "name": "\u05d2\u30fbni-compu\u03c4e\u30fb27",
+    "category_id": "1161764488186441768"
+  },
+  "28": {
+    "channel_id": "1343950080465698836",
+    "name": "\u05d3\u30fblolocaust\u30fb28",
+    "category_id": "1161764488186441768"
+  },
+  "29": {
+    "channel_id": "1263866060780605501",
+    "name": "\u05d4\u30fbcoldin\u03c4\u30fb29",
+    "category_id": "1161764488186441768"
+  },
+  "30": {
+    "channel_id": "1255568373056671804",
+    "name": "\u05d5\u30fbbe\u03c4\u30fb30",
+    "category_id": "1161764488186441768"
+  },
+  "31": {
+    "channel_id": "1222990781577433232",
+    "name": "\u05d6\u30fbnaschain\u30fb31",
+    "category_id": "1161764488186441768"
+  },
+  "32": {
+    "channel_id": "1215319932062011464",
+    "name": "\u05d7\u30fbi\u03c4sai\u30fb32",
+    "category_id": "1161764488186441768"
+  },
+  "33": {
+    "channel_id": "1233428828479819876",
+    "name": "\u05d8\u30fbready\u30fb33",
+    "category_id": "1161764488186441768"
+  },
+  "34": {
+    "channel_id": "1247680967225905273",
+    "name": "\u05d9\u30fbmind\u30fb34",
+    "category_id": "1161764488186441768"
+  },
+  "35": {
+    "channel_id": "1204855126045753434",
+    "name": "\u05da\u30fblogic\u30fb35",
+    "category_id": "1161764488186441768"
+  },
+  "36": {
+    "channel_id": "1339356060787408996",
+    "name": "\u05db\u30fbau\u03c4oppia\u30fb36",
+    "category_id": "1161764488186441768"
+  },
+  "37": {
+    "channel_id": "1253448873305964626",
+    "name": "\u05dc\u30fb\u03c4uning\u30fb37",
+    "category_id": "1161764488186441768"
+  },
+  "38": {
+    "channel_id": "1281623984286334987",
+    "name": "\u05dd\u30fbdis\u03c4ributed\u30fb38",
+    "category_id": "1161764488186441768"
+  },
+  "39": {
+    "channel_id": "1241046233800507482",
+    "name": "\u05de\u30fbedge\u30fb39",
+    "category_id": "1161764488186441768"
+  },
+  "40": {
+    "channel_id": "1245768323036217408",
+    "name": "\u05df\u30fbchunk\u30fb40",
+    "category_id": "1161764488186441768"
+  },
+  "41": {
+    "channel_id": "1263142301786574889",
+    "name": "\u05e0\u30fbspor\u03c4s\u03c4ensor\u30fb41",
+    "category_id": "1161764488186441768"
+  },
+  "42": {
+    "channel_id": "1275149537547391058",
+    "name": "\u05e1\u30fbmasa\u30fb42",
+    "category_id": "1161764488186441768"
+  },
+  "43": {
+    "channel_id": "1263507367405031434",
+    "name": "\u05e2\u30fbgraphi\u03c4e\u30fb43",
+    "category_id": "1161764488186441768"
+  },
+  "44": {
+    "channel_id": "1271486854830755981",
+    "name": "\u05e3\u30fbscore\u30fb44",
+    "category_id": "1161764488186441768"
+  },
+  "45": {
+    "channel_id": "1267511824601976935",
+    "name": "\u05e4\u30fbswe-rizzo\u30fb45",
+    "category_id": "1161764488186441768"
+  },
+  "46": {
+    "channel_id": "1273657158982172742",
+    "name": "\u05e5\u30fbneural\u30fb46",
+    "category_id": "1161764488186441768"
+  },
+  "47": {
+    "channel_id": "1305525944123134024",
+    "name": "\u05e6\u30fbcondense\u30fb47",
+    "category_id": "1290321693427892358"
+  },
+  "48": {
+    "channel_id": "1286726353881796670",
+    "name": "\u05e7\u30fbnex\u03c4place\u30fb48",
+    "category_id": "1290321693427892358"
+  },
+  "49": {
+    "channel_id": "1174839377659183174",
+    "name": "\u05e8\u30fbautoml\u30fb49",
+    "category_id": "1290321693427892358"
+  },
+  "50": {
+    "channel_id": "1311109830282313781",
+    "name": "\u05e9\u30fbsynth-network\u30fb50",
+    "category_id": "1290321693427892358"
+  },
+  "51": {
+    "channel_id": "1291754566957928469",
+    "name": "\u05ea\u30fbcelium\u30fb51",
+    "category_id": "1290321693427892358"
+  },
+  "52": {
+    "channel_id": "1213131262483628102",
+    "name": "\u0627\u30fbdojo\u30fb52",
+    "category_id": "1290321693427892358"
+  },
+  "53": {
+    "channel_id": "1302975822554202142",
+    "name": "\u0628\u30fbfrontier\u30fb53",
+    "category_id": "1290321693427892358"
+  },
+  "54": {
+    "channel_id": "1316415472563916841",
+    "name": "\u062a\u30fbweb-genie\u30fb54",
+    "category_id": "1290321693427892358"
+  },
+  "55": {
+    "channel_id": "1320766712508977192",
+    "name": "\u062b\u30fbprecog\u30fb55",
+    "category_id": "1290321693427892358"
+  },
+  "56": {
+    "channel_id": "1311360495428702240",
+    "name": "\u062c\u30fbgradients\u30fb56",
+    "category_id": "1290321693427892358"
+  },
+  "57": {
+    "channel_id": "1310698546852528180",
+    "name": "\u062d\u30fbgaia\u30fb57",
+    "category_id": "1290321693427892358"
+  },
+  "58": {
+    "channel_id": "1304499133675081761",
+    "name": "\u062e\u30fbdippy-speech\u30fb58",
+    "category_id": "1290321693427892358"
+  },
+  "59": {
+    "channel_id": "1310617172132888639",
+    "name": "\u062f\u30fbagent-arena\u30fb59",
+    "category_id": "1290321693427892358"
+  },
+  "60": {
+    "channel_id": "1300553352274382848",
+    "name": "\u0630\u30fbbitsec\u30fb60",
+    "category_id": "1290321693427892358"
+  },
+  "61": {
+    "channel_id": "1319313447435108413",
+    "name": "\u0631\u30fbred-team\u30fb61",
+    "category_id": "1290321693427892358"
+  },
+  "62": {
+    "channel_id": "1320812830735339580",
+    "name": "\u0644\u30fbagentao\u30fb62",
+    "category_id": "1290321693427892358"
+  },
+  "63": {
+    "channel_id": "1349115333570723978",
+    "name": "\u0633\u30fba\u03c4x\u30fb63",
+    "category_id": "1290321693427892358"
+  },
+  "64": {
+    "channel_id": "1320739778534047785",
+    "name": "\u0634\u30fbchutes\u30fb64",
+    "category_id": "1290321693427892358"
+  },
+  "65": {
+    "channel_id": "1342275465267642408",
+    "name": "\u0635\u30fb\u03c4pn\u30fb65",
+    "category_id": "1290321693427892358"
+  },
+  "66": {
+    "channel_id": "1334536801922060360",
+    "name": "\u0636\u30fbfake-news\u30fb66",
+    "category_id": "1290321693427892358"
+  },
+  "67": {
+    "channel_id": "1349116951959441450",
+    "name": "\u0637\u30fbta\u30fb67",
+    "category_id": "1290321693427892358"
+  },
+  "68": {
+    "channel_id": "1345470582161936405",
+    "name": "\u0638\u30fbnova\u30fb68",
+    "category_id": "1290321693427892358"
+  },
+  "69": {
+    "channel_id": "1349118519198875778",
+    "name": "\u0639\u30fbain\u30fb69",
+    "category_id": "1290321693427892358"
+  },
+  "70": {
+    "channel_id": "1349119225868058644",
+    "name": "\u063a\u30fbvericore\u30fb70",
+    "category_id": "1290321693427892358"
+  },
+  "71": {
+    "channel_id": "1349121405903573114",
+    "name": "\u0641\u30fbfa\u30fb71",
+    "category_id": "1290321693427892358"
+  },
+  "72": {
+    "channel_id": "1349122541754515538",
+    "name": "\u0642\u30fbqaf\u30fb72",
+    "category_id": "1290321693427892358"
+  },
+  "73": {
+    "channel_id": "1351969903132938302",
+    "name": "\u0643\u30fbfx-integral\u30fb73",
+    "category_id": "1290321693427892358"
+  },
+  "74": {
+    "channel_id": "1349123574820245534",
+    "name": "\u0644\u30fblam\u30fb74",
+    "category_id": "1290321693427892358"
+  },
+  "75": {
+    "channel_id": "1349124437752152075",
+    "name": "\u0645\u30fbhippius\u30fb75",
+    "category_id": "1290321693427892358"
+  },
+  "76": {
+    "channel_id": "1264939518641963070",
+    "name": "\u0646\u30fbsafe-scan\u30fb76",
+    "category_id": "1290321693427892358"
+  },
+  "77": {
+    "channel_id": "1351180132295118848",
+    "name": "\u0647\u30fbha\u30fb77",
+    "category_id": "1290321693427892358"
+  },
+  "78": {
+    "channel_id": "1351180661918142474",
+    "name": "\u0648\u30fbwaw\u30fb78",
+    "category_id": "1290321693427892358"
+  },
+  "79": {
+    "channel_id": "1353733356470276096",
+    "name": "\u0649\u30fbtaos\u30fb79",
+    "category_id": "1290321693427892358"
+  },
+  "80": {
+    "channel_id": "1353733529774723073",
+    "name": "\u064a\u30fbai-factory\u30fb80",
+    "category_id": "1290321693427892358"
+  }
+}
